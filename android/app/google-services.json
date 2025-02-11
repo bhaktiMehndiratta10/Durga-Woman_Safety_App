@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "212239808610",
+    "project_id": "the-durga-app",
+    "storage_bucket": "the-durga-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212239808610:android:49a402b2c6884cb24df93b",
+        "android_client_info": {
+          "package_name": "com.example.durga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmQdViJVbJcWyAAEwcwVDTpWfGqE7RvnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
