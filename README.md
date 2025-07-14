@@ -8,8 +8,7 @@ What makes Durga different? It’s built to be **comprehensive**, not just react
 - **Nearby safety spots:** Locate hospitals, police stations, and verified safe places around you using live data.
 - **Emergency dialer:** One‑tap access to call for help—because seconds matter.
 - **Self‑defense tips:** Curated, actionable advice to boost situational awareness and confidence.
-
----
+  
 
 ## 🛠 Tech Stack & Architecture
 
