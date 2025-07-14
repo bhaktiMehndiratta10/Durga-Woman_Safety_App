@@ -1,35 +1,22 @@
 # Durga
 
-**Durga** is a cross‑platform women’s safety application built with a clear mission: to empower users with both **preventive** and **defensive** features that matter when it counts.  
+**Durga** is a cross‑platform women’s safety app designed to tackle safety on 2 dimensions:  
+- 🛡 **Preventive**: helping users avoid risky situations before they escalate.  
+- ⚡ **Defensive**: offering fast, reliable tools to react when it matters most.
 
-Whether it’s late‑night walks, solo travel, or simply daily commutes—Durga keeps users a step ahead with real‑time alerts, location‑based safety recommendations, and essential tools for emergencies.
-
----
-
-## ✨ Key Features
-
-- 🔴 **Real‑Time Alerts**: Send immediate alerts to trusted contacts when you feel unsafe.
-- 📍 **Nearby Safety Spots**: Locate hospitals, police stations, and other verified safe places around you.
-- 📞 **Emergency Dialer**: One‑tap call to your emergency contacts or local authorities.
-- 🥋 **Self‑Defense Tips**: Curated, practical guidance to boost confidence and preparedness.
+What makes Durga different? It’s built to be **comprehensive**, not just reactive, it has:
+- **Nearby safety spots:** Locate hospitals, police stations, and verified safe places around you using live data.
+- **Emergency dialer:** One‑tap access to call for help—because seconds matter.
+- **Self‑defense tips:** Curated, actionable advice to boost situational awareness and confidence.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Architecture
 
-- **Flutter** — For sleek, cross‑platform mobile development.
-- **Firebase** — Handling authentication, real‑time database, and notifications.
-- **API Integration** — To fetch and display nearby safety spots dynamically.
+Durga isn’t just another Flutter app—it’s architected for reliability and scalability:
 
-All handcrafted using Flutter, because yes, performance and design matter.
-
----
-
-## 🚀 Installation & Setup
-
-> ⚠️ Note: Ensure you have Flutter installed and configured properly.
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/durga.git
-   cd durga
+- **Flutter (Dart)** – for truly native‑feeling cross‑platform UI.
+- **Firebase**:
+  - **Authentication** – secure sign‑in & user management.
+  - **Cloud Firestore** – real‑time data sync across devices.
+  - **Firebase Cloud Messaging (FCM)** – push notifications for alerts.
