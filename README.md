@@ -1,5 +1,4 @@
 # Durga
-# Durga
 
 **Durga** is a cross‑platform women’s safety application built with a clear mission: to empower users with both **preventive** and **defensive** features that matter when it counts.  
 
