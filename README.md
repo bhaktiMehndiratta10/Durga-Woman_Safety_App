@@ -1,8 +1,8 @@
 # Durga
 
 **Durga** is a cross‑platform women’s safety app designed to tackle safety on 2 dimensions:  
-- 🛡 **Preventive**: helping users avoid risky situations before they escalate.  
-- ⚡ **Defensive**: offering fast, reliable tools to react when it matters most.
+- **Preventive**: helping users avoid risky situations before they escalate.  
+- **Defensive**: offering fast, reliable tools to react when it matters most.
 
 What makes Durga different? It’s built to be **comprehensive**, not just reactive, it has:
 - **Nearby safety spots:** Locate hospitals, police stations, and verified safe places around you using live data.
